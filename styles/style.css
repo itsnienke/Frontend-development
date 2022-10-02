@@ -836,16 +836,17 @@ white-space: nowrap;
 
 /* ABILITIES */
 
-.abilities {
+
+  
+ 
+
+  
+	.abilities {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
   }
   
-  .abilities h2 {
-	  width: 80vh;
-  }
-
-  .abilities h2, .abilities div, .abilities ul {
+  .abilities h2, section div, section ul {
 	grid-column-start: 1;
 	grid-column-end: 3;
   }
@@ -859,9 +860,8 @@ white-space: nowrap;
 	display: none;
   }
   
-	.abilities ul li.active {
+  .abilities ul li.active {
 	display: block;
-	border: 3em, black;
   }
   
   .abilities video {
@@ -870,10 +870,11 @@ white-space: nowrap;
 	grid-column-end: 5;
 	grid-row-start: 1;
 	grid-row-end: 4;
-	justify-content: center;
-	aspect-ratio: 16 / 9;
-
   }
+
+  .abilities h2 {
+	width: 80vh;
+}
 
   .abilities h3 {
 	  font-family: 'din bold';

@@ -27,15 +27,15 @@ function toggleGameMenu() {
     
 }
 
-let button1 = document.querySelector("section div button:first-of-type");
-let button2 = document.querySelector("section div button:nth-of-type(2)");
-let button3 = document.querySelector("section div button:nth-of-type(3)");
-let button4 = document.querySelector("section div button:nth-of-type(4)");
-let list1 = document.querySelector("section ul li:first-of-type");
-let list2 = document.querySelector("section ul li:nth-of-type(2)");
-let list3 = document.querySelector("section ul li:nth-of-type(3)");
-let list4 = document.querySelector("section ul li:nth-of-type(4)");
-let video = document.querySelector("section video");
+let button1 = document.querySelector(".abilities div button:first-of-type");
+let button2 = document.querySelector(".abilities div button:nth-of-type(2)");
+let button3 = document.querySelector(".abilities div button:nth-of-type(3)");
+let button4 = document.querySelector(".abilities div button:nth-of-type(4)");
+let list1 = document.querySelector(".abilities ul li:first-of-type");
+let list2 = document.querySelector(".abilities ul li:nth-of-type(2)");
+let list3 = document.querySelector(".abilities ul li:nth-of-type(3)");
+let list4 = document.querySelector(".abilities ul li:nth-of-type(4)");
+let video = document.querySelector(".abilities video");
 
 list1.classList.add("active");
 
