@@ -107,23 +107,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Het vinden van sections ging best soepel, wel had ik moeite met het weer in komen van het html en css schrijven. veel was ik weer vergetten van vorig jaar.
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - HTML kon wat netter gemaakt
+  - css moest nog gedaan
+  
 
 </details>
 
@@ -137,26 +128,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  Het ging een stuk beter met code schrijven dan vorige week, ik h ad meer zin in het maken van mijn site. wel moest ik nog een boel vragen aan andere omdat ik vast liep. 
+  Het ging een stuk beter met code schrijven dan vorige week, ik had meer zin in het maken van mijn site. wel moest ik nog een boel vragen aan andere omdat ik vast liep. 
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - HTML zag er netjes uit
+  - misschien wat meer met nth-of-type werken
+  - beginnen aan js
+
 
 </details>
 
@@ -167,10 +151,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
-  <summary>uitwerken na test in 8e werkgroep</summary>
+  <summary></summary>
 
   ### Bevindingen
-  
+  Mijn Site werkte zoals het had moeten werken, alleen had ik niet toepassing gemaakt aan de contrasten of het verbeteren van leesbaarheid waardoor dit wat minder goed uitkwam in de testen, het kreeg de zelfde resultaten als de site die ik na maak
 
   #### Screenreader
   De screenreader leest alles wat er te lezen valt, dit is goed, soms zijn er teksten die er meer voor de sier staan en ik vraag me af of dat niet verwarrend is voor de mensen die de screenreader gebruiken.
@@ -199,26 +183,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Week 4 ging wat stroef, ik kwam op vele punten vast te zitten waardoor ik wat motivatie miste, met hulp van Niels en Ine kon ik na de werkgroepen weer goed opweg
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  In de meeting werd ik vooral geholpen door Ine, ze vond er alles goed uitzien. Wel moest ik nog aan de slag met mijn tweede page. 
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Mijn nav wat simpeler maken dan het voorbeeld
+  - Beginnen aan mijn tweede page
+  
 
 </details>
 
