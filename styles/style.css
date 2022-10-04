@@ -380,18 +380,18 @@ h1 {
 	
 }
 
-.intro button:active {
-	position: absolute;
-	left: 2em;
-	right: 2em;	
-	padding: 1.2em 2.5em;
+.intro button:hover {
+	padding: 1em 6em;
 	font-family: "din bold";
 	text-align: center;
 	background-color: #0f1923;
 	border: none;
 	color: #ece8e1;
 	font-size: 1em;	
+	
 }
+
+
 
 /* LATEST */
 
@@ -502,13 +502,29 @@ main section:nth-of-type(2) li {
 	font-size: 0.9em;	
 }
 
+.dimension a:hover {
+	background-color: #0f1923;
+}
+
 /*VALORANT*/
 
 .valorant {
 	margin-bottom: 17em;
 	color: #383e3a;
+	position: relative;
 }
 
+.a-container {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
 
 .valorant h2 {
 	color: #0f1923;
@@ -523,12 +539,11 @@ main section:nth-of-type(2) li {
 	font-size: 1.1em;
 	line-height: 1.5em;
 	width: 80%;
-	margin-bottom: 4em;
+	margin-bottom: 7em;
 }
 
 .valorant a {
-	text-decoration: none;
-	margin-left: 5em;
+	text-decoration: none;	
 	padding: 1.2em 5.5em;
 	font-family: "din bold";	
 	text-align: center;
@@ -536,7 +551,11 @@ main section:nth-of-type(2) li {
 	border: none;
 	color: #ece8e1;
 	font-size: 1em;	
-	margin-bottom: 1em;
+	
+}
+
+.valorant a:hover {
+	background-color: #0f1923;
 }
 
 .video-container2 h4 {
@@ -551,7 +570,6 @@ main section:nth-of-type(2) li {
 
 
 .video-container2 {
-	margin-top: 2em;
 	display: flex;
 	position: relative;
 	justify-content: center;
@@ -560,7 +578,7 @@ main section:nth-of-type(2) li {
 
 .valorant video {
 	min-height: 1em;
-	height: 25vh;
+	height: 30vh;
 	aspect-ratio: 16 / 9;
 	position: absolute;
 	z-index: -1;
@@ -570,7 +588,6 @@ main section:nth-of-type(2) li {
 /*AGENTS*/
 
 .agents {
-
 	height: 100vh;
 	background-color: #ff4655;
 	margin-bottom: 4em;
@@ -612,9 +629,11 @@ main section:nth-of-type(2) li {
 	border: none;
 	color: #0f1923;
 	font-size: 1em;
-	position: absolute;
-	left: 6em;
-	bottom: 3em;
+}
+
+.agents a:hover {
+	background-color: #0f1923;
+	color: #ece8e1
 }
 
 .agents img {
@@ -622,6 +641,21 @@ main section:nth-of-type(2) li {
  margin: auto;
  align-items: center;
 }
+
+.a-container2 {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+
 
 
 /*maps*/
@@ -638,14 +672,14 @@ main section:nth-of-type(2) li {
 	line-height: 1.5em;
 	width: 80%;
 	margin-bottom: 4em;
+	
 }
 
 .maps a {
 	text-decoration: none;
 	margin-left: 3em;
 	padding: 1.2em 5.5em;
-	font-family: "din bold";
-	
+	font-family: "din bold";	
 	text-align: center;
 	background-color: #ff4655;
 	border: none;
@@ -656,21 +690,15 @@ main section:nth-of-type(2) li {
 	position: absolute;
 }
 
+
 .maps img {
 	height: 60vh;
 }
 
+
+	
 .maps a:hover {
-	text-decoration: none;
-	margin-left: 3em;
-	padding: 1.2em 5.5em;
-	font-family: "din";
-	font-weight: bold;
-	text-align: center;
-	background-color: #ece8e1;
-	border: none;
-	color: #0f1923;
-	font-size: 1em;	
+	background-color: #0f1923;
 }
 
 /*DOWNLOAD*/
@@ -717,6 +745,7 @@ footer {
 .social {
 	position: relative;
 	display: flex;
+	justify-content: center;
 }
 
 .social ul {
@@ -740,37 +769,36 @@ white-space: nowrap;
 }
 
 .social li img {
-	background: #EBE8E2;
-	border-radius: 50%;
+	background: #7E7E7E;
+	border-radius: 25%;
+	height: 48px;
+	width: auto;
 }
 
-
-
-/*COPYRIGHT*/
-.copyright {
-	position: relative;
+footer {
 	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
-.copyright p {
+footer p {
 	color: #7E7E7E;
-	font-family: Arial, Helvetica, sans-serif;
-	
-	
-
+	width: 60%;
+	text-align: center;
 }
 
-.service {
-	display: flex;
-	position: relative;
-}
 
-.service a {
-	color:#EBE8E2;
+footer ul :nth-of-type(2) {
 	list-style: none;
 	display: flex;
-	flex-direction: row;
+	align-items: center;
 }
+
+footer ul:nth-of-type(2) li{
+	color: #ece8e1;
+	letter-spacing: none;
+}
+
 
 
 /* SELECT */
@@ -844,13 +872,18 @@ white-space: nowrap;
 	.abilities {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
+	padding-left: 1em;
   }
   
   .abilities h2, section div, section ul {
 	grid-column-start: 1;
 	grid-column-end: 3;
   }
-  
+   
+  .abilities button:active {
+	  border: #111;
+  }
+
   .abilities ul {
 	list-style-type: none;
 	padding: 0;
@@ -874,10 +907,18 @@ white-space: nowrap;
 
   .abilities h2 {
 	width: 80vh;
+	padding-left: 0em;
 }
 
   .abilities h3 {
 	  font-family: 'din bold';
+  }
+
+  .abilities p {
+	  font-family: 'din';
+	  color: #768079;
+	  line-height: 1.5em;
+	  contain: content;
   }
 
   .abilities img {
@@ -907,3 +948,190 @@ white-space: nowrap;
 	margin-bottom: -1em;
   }
 
+
+  /* MEDIA QUERIES */	
+
+
+  @media (min-width: 1035px) {
+
+
+	.intro {
+		margin-bottom: 3em;
+	}
+
+	.intro video {
+		height: 100%;
+		width: 100%
+	}
+
+	h1 {
+	
+		font-size: 8.5em;
+	}
+
+
+	main section:nth-of-type(2) ul {
+		
+		list-style: none;
+		padding-left: 0;	
+		
+	}
+	
+	main section:nth-of-type(2) li {
+		min-width: 0%;
+	}
+
+	.latest {
+	display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+	}
+
+	.latest h2 {
+		margin-bottom: -2.4;
+		font-size: 4em;
+	}
+
+	.latest img {
+		width: 45vh;
+
+	}
+
+	.dimension h2{
+		font-size: 8em;
+		
+	}
+
+
+	.valorant {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		padding-left: 12em;
+	}
+
+	.valorant h3 {
+		text-align: left;
+    	width: 48%;
+    	padding-right: 9em;
+	}
+
+	.valorant p {
+		text-align: left;
+    	width: 48%;
+    	padding-right: 9em;
+	}
+
+	.valorant h2 {
+		font-size: 8em;
+		margin-left: -0.5em;
+		margin-bottom: 0;
+	}
+
+	.valorant video {
+		position: absolute;
+		left: 0;
+		top: 0;
+		right: -34em;
+		bottom: 0;
+	}
+
+	.a-container {
+		align-items: flex-start;
+		left: 13em;
+	}
+
+
+	.agents {
+	position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+	}
+
+	.agents h2 {
+	font-size: 8em;
+    width: 47%;
+    margin-bottom: 0em;
+	}
+
+	.agents h3 {
+		text-align: left;
+    	width: 48%;
+    	padding-right: 9em;
+	}
+
+	.agents p {
+		text-align: left;
+    	width: 48%;
+    	padding-right: 9em;
+	}
+
+	.agents img {
+		position: absolute;
+		left: -34em;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		height: 80vh;
+
+	}
+
+	.a-container2 {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 184px;
+    bottom: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+	}
+
+	.maps {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		padding-left: 8em;
+		margin-bottom: -11em;
+	}
+
+	.maps a {
+		bottom: 17em;
+		left: 6em;
+	}
+
+	.maps h2 {
+		font-size: 7em;
+		margin-left: 0;
+		margin-bottom: 0;
+		z-index: 1;
+	}
+
+	.maps h3 {
+		text-align: left;
+    	width: 48%;
+    	padding-right: 9em;
+		z-index: 1;
+	}
+
+	.maps p {
+		text-align: left;
+    	width: 48%;
+    	padding-right: 9em;
+		z-index: 1;
+	}
+
+	.maps img {
+		position: absolute;
+		height: 80vh;
+		right: 0;
+		
+	}
+
+
+
+}
