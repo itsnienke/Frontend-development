@@ -206,17 +206,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  HEt responsive maken ging best soepel, wat ik hier van voor namelijk wel heb geleerd is dat ik meer vooruit moet denken met wat ik doe qua styling, zo had ik eerder nog nooit van 'vh' gehoord als grootte. Ook heb ik geleerd hoe je je site het beste kan opstellen, in het begin ging dit wat stroefer omdat ik bijvoorbeeld aan alles een margin-top gaf.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  De styling van mijn nav en menu ging wat stroefer, ik zat er best mee in de knoop en heb ik dit hierdoor het wat simpeler gehouden. Ook zat de site die ik na maakte vol met spans/animaties die de site wat meer feeling gaf, hier ben ik niet aan toe gekomen. In mijn tweede pagina zit er een sectie in die buiten het scherm valt en heb dit niet meer kunnen veranderen.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -235,5 +235,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   1. https://codepen.io/itsnienke/pen/xxjWxdO
   2. https://codepen.io/inevdh/pen/yLjKjJe
   3. https://playvalorant.com/en-us/agents/sage/
+  4. https://icons8.com/icons/set/twitter-white
+  5. https://icons8.com/icons/set/menu
 
 </details>
