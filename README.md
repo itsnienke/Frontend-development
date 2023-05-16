@@ -1,241 +1,150 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+**Auteur:** -Nienke Knol-
 
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
-
-## Jij
-
-<details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
-
-  ### Auteur:
-  Nienke
-
-  #### Je startniveau:
-  Blauw
-
-  #### Je focus:
-  Responsive
- 
-</details>
-
-
-
-
-
-## Je website
-
-<details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
-
-  ### Je opdracht:
-  https://playvalorant.com/en-us/
-
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  Home
-  <img src="readme-images/valorant-home" width="375px" at="Home pagina met uitleg over de game">
-
-  #### Screenshot(s) van de tweede pagina (small screen):
-  Sage
-  <img src="readme-images/Sage" width="375px" alt="Informatie pagine over de agent Sage">
- 
-</details>
-
-
-
-## Toegankelijkheidstest 1/2 (week 1)
-
-<details>
-  <summary>uitwerken na test in 1e werkgroep</summary>
-
-  ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
-
-  #### Screenreader
-  Met de screen reader duurde het even voordat hij de frontpage las, eenmaal toen hij het deed ging het accent soms van Nederlands naar engels. (De hele site is in het Engels geschreven) 
-  
-
-  #### Muis en Toetsenbord 
-   Als ik met tab over de nav ging sloeg hij links met een dropdown over. met alleen tab en pijltjes kon ik wel goed door de site heen.
-
-  #### Motoriek (shocks, elastiekjes)
-  Met de elastiekjes kon ik alsnog goed door de site heen, klikken ging makkelijk en je hoefde eigenlijk alleen maar te schrollen
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Met de low-contrast bril zijn de grotere grijze teksten bijna niet te lezen tenzij je erg dichtbij komt en goed focust, de koppen en andere teksten met een grote grote zijn goed te lezen.
-
-  Met de blur/glare bril zijn alleen echt de grootste teksten te lezen, zelfs de kopjes boven stukken tekst en buttons zijn niet te lezen.
-
-</details>
-
-
-
-## Breakdownschets (week 1)
-
-<details>
-  <summary>uitwerken na afloop 2e werkgroep</summary>
-
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
-</details>
-
-
-
-
-
-## Voortgang 1 (week 2)
-
-<details>
-  <summary>uitwerken voor 1e voortgang</summary>
-
-  ### Stand van zaken
-  Het vinden van sections ging best soepel, wel had ik moeite met het weer in komen van het html en css schrijven. veel was ik weer vergetten van vorig jaar.
-
-
-  
-
-  ### Verslag van meeting
-  
-
-  - HTML kon wat netter gemaakt
-  - css moest nog gedaan
-  
-
-</details>
-
-
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-  <summary>uitwerken voor 2e voortgang</summary>
-
-  ### Stand van zaken
-  Het ging een stuk beter met code schrijven dan vorige week, ik had meer zin in het maken van mijn site. wel moest ik nog een boel vragen aan andere omdat ik vast liep. 
-
-
-
-
-
-  ### Verslag van meeting
-  
-
-  - HTML zag er netjes uit
-  - misschien wat meer met nth-of-type werken
-  - beginnen aan js
-
-
-</details>
-
-
-
-
-
-## Toegankelijkheidstest 2/2 (week 4)
-
-<details>
-  <summary></summary>
-
-  ### Bevindingen
-  Mijn Site werkte zoals het had moeten werken, alleen had ik niet toepassing gemaakt aan de contrasten of het verbeteren van leesbaarheid waardoor dit wat minder goed uitkwam in de testen, het kreeg de zelfde resultaten als de site die ik na maak
-
-  #### Screenreader
-  De screenreader leest alles wat er te lezen valt, dit is goed, soms zijn er teksten die er meer voor de sier staan en ik vraag me af of dat niet verwarrend is voor de mensen die de screenreader gebruiken.
-
-
-  #### Muis en Toetsenbord 
-  Het tabben gaat goed, hij tabt naar alle links.
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Met de elastiekjes kon ik alsnog goed door de site heen, klikken ging makkelijk en je hoefde eigenlijk alleen maar te schrollen
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  De kleuren hebben vaak niet een hoog contrast dus dit zou ik kunnen verbeteren door andere kleuren te gebruiken, met een laag contrast bril zijn de teksten namelijk slecht te lezen.
-
-</details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
-<details>
-  <summary>uitwerken voor 3e voortgang</summary>
-
-  ### Stand van zaken
-  Week 4 ging wat stroef, ik kwam op vele punten vast te zitten waardoor ik wat motivatie miste, met hulp van Niels en Ine kon ik na de werkgroepen weer goed opweg
-
-
-
-  ### Verslag van meeting
-  In de meeting werd ik vooral geholpen door Ine, ze vond er alles goed uitzien. Wel moest ik nog aan de slag met mijn tweede page. 
-
-  - Mijn nav wat simpeler maken dan het voorbeeld
-  - Beginnen aan mijn tweede page
-  
-
-</details>
-
-
-
-
-
-## Eindgesprek (week 5)
-
-<details>
-  <summary>uitwerken voor eindgesprek</summary>
-
-  ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/" width="375px" alt="uitomst opdracht 1">
-
-
-  ### Dit ging goed/Heb ik geleerd: 
-  HEt responsive maken ging best soepel, wat ik hier van voor namelijk wel heb geleerd is dat ik meer vooruit moet denken met wat ik doe qua styling, zo had ik eerder nog nooit van 'vh' gehoord als grootte. Ook heb ik geleerd hoe je je site het beste kan opstellen, in het begin ging dit wat stroefer omdat ik bijvoorbeeld aan alles een margin-top gaf.
-
-  <img src="" width="375px" alt="top">
-
-
-  ### Dit was lastig/Is niet gelukt:
-  De styling van mijn nav en menu ging wat stroefer, ik zat er best mee in de knoop en heb ik dit hierdoor het wat simpeler gehouden. Ook zat de site die ik na maakte vol met spans/animaties die de site wat meer feeling gaf, hier ben ik niet aan toe gekomen. In mijn tweede pagina zit er een sectie in die buiten het scherm valt en heb dit niet meer kunnen veranderen.
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
-</details>
-
-
-
+**De opdrachten:** [opdracht 1](opdracht1/index.html) en [opdracht 2](opdracht2/index.html)
 
 
 ## Bronnenlijst
+  1. -https://bennettfeely.com/clippy/-
+  2. -https://www.w3schools.com/css/css3_animations.asp-
+  3. -https://blog.logrocket.com/css-before-after-custom-animations-transitions/-
+  4. -https://moduscreate.com/blog/dark-mode-images/-
+  5. -https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API-
+  6. -https://www.youtube.com/watch?v=SgmNxE9lWcY&t=1136s-
+
+
+
+## Opdracht 1 plan
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
+  <summary>Google is een search engine en ik zou graag wat willlen doen met zoekende ogen.</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. https://codepen.io/itsnienke/pen/xxjWxdO
-  2. https://codepen.io/inevdh/pen/yLjKjJe
-  3. https://playvalorant.com/en-us/agents/sage/
-  4. https://icons8.com/icons/set/twitter-white
-  5. https://icons8.com/icons/set/menu
+  ### Je storyboard:
+  <img src="/readme-images/storyboard-fe.png" width="375px" alt="storyboard voor opdracht 1">
+
+
+  ### Je ambitie: 
+  Aan deze technieken/punten wil ik werken:
+  - Animatie in css
+  - Netter in css werken
+  - Beter weten wat ik aan het doen ben
+  
+ 
+</details>
+
+
+
+## Opdracht 1 reflectie
+
+<details>
+  <summary>Ik merkte dat ik het toch best moeilijk vond om meerdere animaties toe te voegen. na het maken van de zoekende ogen liep ik best wat vast</summary>
+
+
+  ### Je uitkomst - karakteristiek screenshot(s):
+ <img src="/readme-images/light1.png" alt="google logo">
+ <img src="/readme-images/dark1.png" alt="google logo dark mode">
+
+
+  ### Dit ging goed/Heb ik geleerd: 
+  het gebruiken van een before en after en hoe je dit bewegend maakt
+
+  
+
+
+  ### Dit was lastig/Is niet gelukt:
+  meerdere animaties toevoegen.
+
+
+
+
+## Opdracht 2 plan
+
+<details>
+  <summary>Een bingo spel van 75 balletjes waar als je 5 op een rij hebt, je bingo kan roepen en het resultaat dan naar voren komt</summary>
+
+
+  ### Je ontwerp:
+  <img src="readme-images/idee-2.png" width="375px" alt="ontwerp opdracht 2">
+
+
+  ### Je ambitie: 
+  Aan deze technieken/punten wil ik werken:
+  - Javascript beter begrijpen
+  - Weten hoe je met voice kan werken
+  - Een echt werkende bingo maken
+</details>
+
+
+
+## Opdracht 2 test
+
+<details>
+  <summary>De site werkt meerendeels wel maar het was fijn om te zien wat beter kon om het duidelijker te maken</summary>
+
+
+  ### Bevinding 1:
+  De sorteer knoppen staan op andere plek als je een ander monitor gebruitk. Zo was het onduidelijk wat deze knoppen betekende.
+
+  #### oplossing:
+  dit per min-width aangepast.
+
+
+
+  ### Bevinding 2:
+  Omdat ik mijn site via github liet zijn waren sommige style onderdelen niet overgenomen zoals de font en de vuurwerk gif op het einde.
+
+  #### oplossing:
+  De '/' voor de styling weglaten zodat dit beter mee komt in github.
+
+
+
+  ### Bevinding 3:
+  De tester heeft niet vaak bingo gespeeld en dacht dat je alle cijfers moet aantikken voor dat je bingo kan roepen. eigenlijk moet dit maar 1 rij van 5 zijn.
+
+  #### oplossing: 
+  De h2 veranderen in een tekst die duidelijk maakt wanneer je nou bingo hebt.
+
+
+ 
+  ### Bevinding 4:
+  De nummers kon je niet aanklikken als je op mobile was omdat de bingo met vuurwerk een z-indez 999 had en dit over alles heen viel.
+
+  #### Oplossing:
+  De z-index van de notificatie op -1 gezet wanneer hij nog niet nodig is en dit veranderd naar 999 als het opgeroepen wordt.
+
+
+  ### Bevinding 5: 
+  Het was nog niet helemaal responsive waardoor het er soms slordig uitzag.
+
+  #### Oplossing:
+  Dark mode en light mode toegepast, en meer @media min-width toegepast zodat de transition van devices er beter uit zien.
+
+
+
+
+</details>
+
+
+
+## Opdracht 2 reflectie
+
+<details>
+  <summary>Met mijn bingo site ben ik eigenlijk best tevereden. In het begin was ik best bang dat het allemaal niet zou werken omdat ik niet wist waar ik moest beginnnen maar uit eindelijk werkt het best goed.</summary>
+
+  ### Je uitkomst - karakteristiek screenshot(s):
+  <img src="readme-images/light.png" width="375px" alt="uitkomst opdracht 2">
+  <img src="readme-images/dark.png" width="375px" alt="uitkomst opdracht 2 darkmode">
+
+
+  ### Dit ging goed/Heb ik geleerd: 
+  Ik heb mezelf uitgedaagt met de javascript om het meerendeels te begrijpen en dit doe ik nu ook. ik ben zeer tevreden dat het bingo aspect werkt en de voice API.
+
+
+
+  ### Dit was lastig/Is niet gelukt:
+  Het accesible maken vond ik erg moeilijk, het is me niet gelukt om te zorgen dat je door de nummers te kunnen tabben.
+
+  <img src="readme-images/tab.png" width="375px" alt="tab op bingo kaart">
 
 </details>
