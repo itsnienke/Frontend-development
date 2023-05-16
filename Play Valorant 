@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playvalorant</title>
+</head>
+<body>
+   <header>
+       <nav> 
+           <img src='url'>
+           <ul>
+           <li><a href='url'>GAME INFO</a></li>
+           <li><a href='https://playvalorant.com/en-us/media/'>MEDIA</a></li>
+          <li><a href='https://playvalorant.com/en-us/news/'>NEWS</a></li>
+           <li><a href='https://playvalorant.com/en-us/leaderboards/'>LEADERBOARDS</a></li>
+           
+           <li><a href='url'>SUPPORT</a></li>
+               <li><a href='https://playvalorant.com/en-us/specs/'>SPECS</a></li>
+               <li><a href='https://support-valorant.riotgames.com/hc/en-us/'>SUPPORT</a></li>
+               <li><a href='https://playvalorant.com/en-us/news/announcements/valorant-community-code/'>COMMUNITY CODE</a></li>
+               
+            <li><a href='url'>OUR SOCIALS</a></li>
+                <li><a href='https://twitter.com/playvalorant'>Twitter</a></li>
+                <li><a href='https://www.youtube.com/PlayValorant'>Youtube</a></li>
+                <li><a href='https://www.instagram.com/playvalorantofficial/'>Instagram</a></li>
+                <li><a href='https://www.facebook.com/PlayVALORANT/'>Facebook</a></li>
+                <li><a href='https://discord.com/invite/valorant'>Discord</a></li>
+
+                <li><a href='https://valorantesports.com/'>ESPORTS</a></li>
+                <li><a href='https://playvalorant.com/en-us/pbe/'>PBE SIGNUP</a></li>
+                </ul>
+
+                <a href='url'>PLAY NOW</a>     
+       </nav>
+   </header>
+
+   <main>
+    <video width="100%" height="50px" autoplay muted>
+        <source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt714eaee50b90fc27/62cc7dcc6a8fb133b0ff7e55/VALORANT_ANNO22_SHATTERED_16x9_27s.mp4" type="">
+    </video>
+       </main>
+<h1>valorant</h1>
+ <p>A 5v5 character-based tactical shooter</p>
+<a href></a>
+
+<h2>latest news</h2>
+  <p>09/13/22</p>
+ <h3>state of the agents - sept. 2022</h3>
+<a href></a>
+
+<img src="https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta69c28430d2cfbfe/631b71dc6d41f755ad5365f1/Val_Banner_State-of-the-Agents_1920x1080.jpg?auto=webp&disable=upscale&width=963" alt="state of agents - sept. 2022">
+ <p>episode_5 // act II / yr ?</p>
+ <h2>dimension</h2>
+<a href><a href="https://playvalorant.com/en-us/news/game-updates/what-s-new-in-valorant-episode-5-act-ii/">ACT II OVERVIEW</a>
+
+<h2>we are valorant</h2>
+ <h3>defy the limits</h3>
+ <p>Blend your style and experience on a global, 
+    competitive stage. You have 13 rounds to attack 
+    and defend your side using sharp gunplay and 
+    tactical abilities. And, with one life per-round, 
+    you'll need to think faster than your opponent 
+    if you want to survive. Take on foes across 
+    Competitive and Unranked modes as well as Deathmatch 
+    and Spike Rush.</p>
+<a href="https://playvalorant.com/en-us/news/announcements/beginners-guide/">LEARN THE GAME</a>
+
+<h4>gameplay></h4>
+ <video width="" height="" autoplay muted>
+    <source src="" type="">
+ </video>
+
+ <h2>your agents</h2>
+  <h3>creativity is your greatest weapon.</h3>
+  <p>More than guns and bullets, you'll choose an agents
+      armed with adaptive, swift, and lethal abilities that
+      create opportunities to let your gunplay shine. No two
+      Agents play alike, just as no two highlight reels will look the same.</p>
+  <a href="https://playvalorant.com/en-us/agents/">VIEW ALL AGENTS</a>
+
+  <h2>your maps</h2>
+  <h3>fight around the world</h3>
+  <p>Each map is a playground to showcase your creative thinking. 
+      Purpose-built for team strategies, spectacular plays, 
+      and clutch moments. Make the play others will imitate for years 
+      to come.</p>
+<a href="https://playvalorant.com/en-us/maps/">VIEW ALL MAPS</a>
+
+   </main>
+
+   <footer>
+<a href="https://playvalorant.com/en-us/download/">DOWNLOAD GAME CLIENT</a>
+<a href="https://play.google.com/store/apps/details?id=com.riotgames.mobile.leagueconnect">DOWNLOAD RIOT MOBILE COMPANION APP</a>
+
+<ul>
+    <li><a href='https://twitter.com/playvalorant'>Twitter</a></li>
+    <li><a href='https://www.youtube.com/PlayValorant'>Youtube</a></li>
+     <li><a href='https://www.instagram.com/playvalorantofficial/'>Instagram</a></li>
+     <li><a href='https://www.facebook.com/PlayVALORANT/'>Facebook</a></li>
+     <li><a href='https://discord.com/invite/valorant'>Discord</a></li>
+</ul>
+
+<a href="https://www.riotgames.com/en"></a>
+
+<p>C 2022 Riot Games, InC. Riot Games, VALORANT, 
+    and any associated logos are trademarks, service marks, 
+    and/or registered trademarks of Riot Games, Inc.</p>
+
+    <a href="https://www.riotgames.com/en/privacy-notice">PRIVACY NOTICE</a>
+<a href="https://www.riotgames.com/en/terms-of-service">TERMS OF SERVICE</a>
+<a href="">COOKIE PREFERENCES</a>
+
+   </footer>
+</body>
+</html>
